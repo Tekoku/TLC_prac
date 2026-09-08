@@ -1,5 +1,5 @@
 # 东方邪星章 练习器 TLC Practice Tool v0.2
-集成在《东方邪星章（汉化版）游戏本体的练习器/A practice tool integrated into the game The Last Comer (Chinese version)。
+集成在《东方邪星章（汉化版）》游戏本体的练习器/A practice tool integrated into the game The Last Comer (Chinese version)。
 包含：
 - 注入式dll工具
 - 启动练习器的bat文件
